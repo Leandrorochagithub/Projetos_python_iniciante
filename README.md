@@ -11,3 +11,6 @@
       
    1.2. Objetivo:
        1. Treinar importação, manipulação e exportação de um arquivo usando Python.
+
+2. Exercitando_Pandas.ipynb
+   1. Exercícios de fixação de conteúdo (Pandas)
